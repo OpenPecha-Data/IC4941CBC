@@ -1,0 +1,18 @@
+id: IC4941CBC
+default_language: bo
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:29:49.593172
+last_modified: 2023-01-04 11:29:49.593192
+source_metadata:
+  collections:
+  - Apang Tertön Series
+  - Works of Tibetan Masters
+bases:
+  FFFD:
+    title: A Short Prayer to Chöying Dorje
+    base_file: FFFD.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
